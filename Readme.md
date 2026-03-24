@@ -37,6 +37,7 @@ install.packages(c(
   "ggplot2","plotly","readxl","jsonlite","tidyr",
   "stringr","scales","reshape2"
 ))
+```
 
 ## How ro run
 - Download or clone this repository
