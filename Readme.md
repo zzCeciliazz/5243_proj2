@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project develops an interactive web application using **R Shiny** for end-to-end data analysis. The app allows users to upload datasets, clean and preprocess data, perform feature engineering, conduct exploratory data analysis (EDA), and export results. It is designed to be flexible, user-friendly, and highly interactive, meeting the requirements of Project 2 :contentReference[oaicite:0]{index=0}.
+This project develops an interactive web application using **R Shiny** for end-to-end data analysis. The app allows users to upload datasets, clean and preprocess data, perform feature engineering, conduct exploratory data analysis (EDA), and export results. It is designed to be flexible, user-friendly, and highly interactive.
 
 
 ## Main Features
