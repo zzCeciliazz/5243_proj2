@@ -1,4 +1,4 @@
-# Data Explorer Pro
+# Data Explorer
 
 ## Overview
 
