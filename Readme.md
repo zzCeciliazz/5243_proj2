@@ -24,7 +24,7 @@ The final processed dataset can be downloaded as a CSV file.
 
 ## Project Structure
 
-- `R_shiny.R` — main Shiny application (UI + server + full workflow)
+- `R_Shiny_Team23.Rmd` — main Shiny application (UI + server + full workflow)
 
 ## Required Packages
 
